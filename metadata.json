@@ -1,0 +1,7 @@
+{
+  "name": "滬上漫步 - 上海旅遊行程",
+  "description": "一份專為 2026 年 1 月上海之旅設計的簡約中國風旅遊手冊，包含每日詳細行程、天氣資訊、航班與住宿管理。",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
